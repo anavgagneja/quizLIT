@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Watson Textbook Conversion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ibm",
+    "watson"
+  ],
+  "author": "anav and aarnav",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-api": "^1.3.1",
+    "body-parser": "^1.8.1",
+    "ddg": "0.0.3",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "mv": "^2.1.1",
+    "node-alchemyapi": "^0.1.0",
+    "watson-developer-cloud": "^1.2.3"
+  }
+}
